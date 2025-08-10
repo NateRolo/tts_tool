@@ -1,6 +1,14 @@
-# .gitignore
+# Environment
 .env
-*.mp3
 __pycache__/
 *.pyc
+
+# OS files
 .DS_Store
+
+
+# Audio output
+*.mp3
+
+# Local launch scripts
+run_tts_tool.bat
